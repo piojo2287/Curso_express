@@ -1,0 +1,16 @@
+{
+  "name": "curso-express",
+  "version": "1.0.0",
+  "description": "curso de express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan S Lera",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
